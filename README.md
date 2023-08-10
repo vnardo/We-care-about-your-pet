@@ -3,7 +3,7 @@
 
 <p>*Este é dos meus primeiros projetos e estou aprendendo como desenvolvê-lo da melhor forma possível. Estou entusiasmado em aplicar o que aprendi até agora, desde a criação da estrutura básica em HTML até a estilização responsiva em CSS*</p>
 
-<img src=http://127.0.0.1:5500/img/Illustration%202.png"">
+<img src="https://github.com/vnardo/projeto-2/blob/main/img/Illustration%202.png?raw=true">
 
 <h3>Habilidades desenvolvidas no projeto:</h3>
 
